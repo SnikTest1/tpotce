@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:kinetic
 #
 # VARS
 ENV ES_VER=8.6.0
