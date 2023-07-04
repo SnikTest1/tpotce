@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:22.10
 #
 # VARS
 ENV KB_VER=8.6.0
